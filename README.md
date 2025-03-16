@@ -34,11 +34,6 @@ Upon running, the program will prompt you to select a search algorithm, display 
 
 ## Here is what you should expect upon selecting an algorithm 
 ![Screenshot 2025-02-28 173926](https://github.com/user-attachments/assets/d39d74c3-b470-4baf-b0a4-2fbd58af314f)
-![Screenshot 2025-02-28 152428](https://github.com/user-attachments/assets/c4ebf45b-69bb-42af-895f-2528b8934095)
-![Screenshot 2025-02-28 152414](https://github.com/user-attachments/assets/c1d7e10e-4234-4600-b27f-c25ab0b95cd2)
-![Screenshot 2025-02-26 141211](https://github.com/user-attachments/assets/9ad3dd74-c231-4e6c-8ba4-0f7ac8f755b9)
-![Screenshot 2025-02-28 190637](https://github.com/user-attachments/assets/71eeb61d-d65b-4b88-b694-e0575078a779)
-![Screenshot 2025-02-28 190300](https://github.com/user-attachments/assets/69051971-5721-4054-a939-738104f44f27)
 
 
 
