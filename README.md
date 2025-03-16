@@ -4,7 +4,7 @@
 This project implements various pathfinding algorithms on a grid with obstacles, enclosures, and different terrain types. The algorithms navigate a 2D world while considering barriers and traversal costs.
 
 ## Algorithms Implemented
-- **A* Search (Astar)** - Uses heuristics for optimal pathfinding.
+- **A** Search (Astar)** - Uses heuristics for optimal pathfinding.
 - **Breadth-First Search (BFS)** - Explores all neighbors level by level.
 - **Depth-First Search (DFS)** - Explores deeper paths before backtracking.
 - **Greedy Best-First Search (GBFS)** - Uses heuristics but does not guarantee an optimal path.
