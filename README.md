@@ -52,7 +52,6 @@ pip install matplotlib numpy
 ## Directory Structure
 ```
 📂 TestingGrid
-│   ├── .DS_Store
 │   ├── world1_enclosures.txt
 │   ├── world1_turfs.txt
 │   ├── world2_enclosures.txt
