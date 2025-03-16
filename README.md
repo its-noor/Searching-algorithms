@@ -32,7 +32,7 @@ python search.py
 Upon running, the program will prompt you to select a search algorithm, display the search path, and visualize the result.
 
 
-Here is what you should expect upon selecting an algorithm 
+## Here is what you should expect upon selecting an algorithm 
 ![Screenshot 2025-02-28 173926](https://github.com/user-attachments/assets/d39d74c3-b470-4baf-b0a4-2fbd58af314f)
 ![Screenshot 2025-02-28 152428](https://github.com/user-attachments/assets/c4ebf45b-69bb-42af-895f-2528b8934095)
 ![Screenshot 2025-02-28 152414](https://github.com/user-attachments/assets/c1d7e10e-4234-4600-b27f-c25ab0b95cd2)
